@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FunChooser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Zip Code</string>
+
+    <string-array name="cuisine_array">
+        <item>Any</item>
+        <item>American</item>
+        <item>Medeteriian</item>
+        <item>Italian</item>
+        <item>Asian</item>
+        <item>Mexican</item>
+        <item>South American</item>
+    </string-array>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>

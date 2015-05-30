@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:label="FunChooser"
+    android:orientation="vertical"
+    tools:context="com.example.root.funchooser.DisplayMessageActivity">
+
+    <include
+        android:id="@+id/tool_bar"
+        layout="@layout/tool_bar"
+        ></include>
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:text="@string/hello_world"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/got"
+        android:layout_centerInParent="true"
+        android:text="Got It"
+        android:textColor="@color/textColor"
+        android:layout_below="@+id/info"
+
+        />
+
+</LinearLayout>
