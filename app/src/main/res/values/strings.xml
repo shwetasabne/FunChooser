@@ -12,6 +12,7 @@
         <item>Italian</item>
         <item>Asian</item>
         <item>Mexican</item>
+        <item>Indian</item>
         <item>South American</item>
     </string-array>
     <string name="title_activity_display_message">DisplayMessageActivity</string>

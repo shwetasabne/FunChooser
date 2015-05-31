@@ -29,7 +29,7 @@ public class FoodPicker extends Fragment {
         spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                Toast.makeText(v.getContext(), parent.getItemIdAtPosition(position) + " is selected", Toast.LENGTH_LONG).show();
+             //   Toast.makeText(v.getContext(), parent.getItemIdAtPosition(position) + " is selected", Toast.LENGTH_LONG).show();
             }
 
             @Override

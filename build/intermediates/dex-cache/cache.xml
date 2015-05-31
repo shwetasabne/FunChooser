@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/classes-eaf605b970063e78e38d1d5bf16e5d9c3d8177fd.jar" />
-    </item>
-    <item
         jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
         <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/classes-7cebc7641a3f65f6d8a26b1c12d2de462eb79c4e.jar" />
+    </item>
+    <item
+        jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-ba13cdf0591a3a3df6ebb000c7f770ea7b686913.jar" />
     </item>
     <item
         jar="/Users/shwetasabne/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
@@ -23,11 +23,39 @@
         <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-a867df82ea31ae24b93b350f2e8f075ce51f7067.jar" />
     </item>
     <item
-        jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/libs/json_simple-1.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-ba13cdf0591a3a3df6ebb000c7f770ea7b686913.jar" />
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/json_simple-1.1-718a1a7aae9aae58639b809f1c986477b68daa84.jar" />
+    </item>
+    <item
+        jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/classes-cca387cc87a59780a2e64a47e15342fc83d72c82.jar" />
+    </item>
+    <item
+        jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/libs/jcommander-1.35.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="47592e181b0bdbbeb63029e08c5e74f6803c4edd">
+        <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/jcommander-1.35-a1f9a30e7460fbf9804084d92f71cc20b43921e1.jar" />
+    </item>
+    <item
+        jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/classes-eaf605b970063e78e38d1d5bf16e5d9c3d8177fd.jar" />
+    </item>
+    <item
+        jar="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/libs/scribe-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a9f92023995a881e97622f82a2dd36d23dda06c">
+        <dex dex="/Users/shwetasabne/AndroidStudioProjects/FunChooser/app/build/intermediates/pre-dexed/debug/scribe-1.3.0-b84ffb1f9f1fe2d7b58a41f8d31e678b5d8ec7e9.jar" />
     </item>
 
 </items>
